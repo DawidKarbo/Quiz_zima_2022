@@ -1,0 +1,18 @@
+﻿1. Utworzyć bazę pytań.
+2. Wyświetlić ekran powitalny
+3. Ustawić kategorię pytania na najniższą (100 pkt)
+4. Wylosować pytanie z aktualnej kategorii.
+5. Wyświetlić treść pytanie (z czterema odpowiedziami)
+6. Pobranie odpowiedzi od użytkownika.
+7. Walidacja odpowiedzi użytkownika.
+
+=> Odpowiedź nieprawidłowa
+8. Plansza pech, game over
+9. Koniec aplikacji
+
+=> Odpowiedź prawidłowa
+8. Sprawdzamy czy to nie było ostatnie pytanie
+=> Tak => 9. Plansza gratulacje, wygrałeś quiz
+=> Nie => 9. Plansza Brawo, to poprawna odpowiedź
+10. Zwiększamy kategorię pytania o jedną wyżej
+11. Wracamy do pkt 4.
