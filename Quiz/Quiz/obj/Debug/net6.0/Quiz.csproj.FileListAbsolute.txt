@@ -13,3 +13,18 @@ C:\Users\student\Desktop\ppzaoczne\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\ref
 C:\Users\student\Desktop\ppzaoczne\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.pdb
 C:\Users\student\Desktop\ppzaoczne\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
 C:\Users\student\Desktop\ppzaoczne\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\ref\Quiz.dll
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\bin\Debug\net6.0\Quiz.exe
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\bin\Debug\net6.0\Quiz.deps.json
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\bin\Debug\net6.0\Quiz.runtimeconfig.json
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\bin\Debug\net6.0\Quiz.dll
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\bin\Debug\net6.0\Quiz.pdb
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.dll
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\refint\Quiz.dll
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.pdb
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
+C:\Users\48667\Desktop\Nowy folder (2)\Quiz_zima_2022\Quiz\Quiz\obj\Debug\net6.0\ref\Quiz.dll
